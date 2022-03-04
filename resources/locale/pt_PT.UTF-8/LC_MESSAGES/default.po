@@ -19,7 +19,7 @@ msgstr ""
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Stations/Podcasts/ListView.vue:93
 msgid "# Episodes"
-msgstr ""
+msgstr "Episódios"
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Stations/Playlists.vue:157
 msgid "# Songs"
@@ -27,11 +27,11 @@ msgstr "# Músicas"
 
 #: /home/runner/work/AzuraCast/AzuraCast/templates/admin/debug/index.phtml:120
 msgid "%d queued messages"
-msgstr ""
+msgstr "%d mensagens em linha"
 
 #: /home/runner/work/AzuraCast/AzuraCast/src/Radio/AbstractAdapter.php:257
 msgid "%s cannot start"
-msgstr "%s não consegue iniciar"
+msgstr "%s não consegue iníciar"
 
 #: /home/runner/work/AzuraCast/AzuraCast/src/Radio/AbstractAdapter.php:266
 msgid "%s cannot stop"
@@ -43,72 +43,72 @@ msgstr "%s encontrou um erro"
 
 #: /home/runner/work/AzuraCast/AzuraCast/src/Radio/AbstractAdapter.php:248
 msgid "%s is not recognized as a service."
-msgstr "%s não é reconhecido como um serviço."
+msgstr "%s não é reconhecido como serviço."
 
 #: /home/runner/work/AzuraCast/AzuraCast/templates/admin/index/index.phtml:67
 #: /home/runner/work/AzuraCast/AzuraCast/templates/admin/index/index.phtml:82
 msgid "%s of %s Used"
-msgstr ""
+msgstr "%s de %s utilizados"
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Stations/Automation.vue:107
 msgid "%{ days } Days"
-msgstr ""
+msgstr "%{ days } Dias"
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Stations/Webhooks/Form/Twitter.vue:102
 msgid "%{ minutes } minutes"
-msgstr ""
+msgstr "%{ minutes } minutos"
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Stations/Webhooks/Form/Twitter.vue:99
 msgid "%{ seconds } seconds"
-msgstr ""
+msgstr "%{ seconds } segundos"
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Stations/Common/Quota.vue:67
 msgid "%{filesCount} File"
 msgid_plural "%{filesCount} Files"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%{filesCount} Ficheiro"
+msgstr[1] "%{filesCount} Ficheiros"
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Stations/Profile/NowPlayingPanel.vue:137
 msgid "%{listeners} Listener"
 msgid_plural "%{listeners} Listeners"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%{listeners} Ouvinte"
+msgstr[1] "%{listeners} Ouvintes"
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Stations/Playlists/CloneModal.vue:77
 msgid "%{name} - Copy"
-msgstr ""
+msgstr "%{name} - Copiar"
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Stations/Profile/BackendPanel.vue:71
 msgid "%{numPlaylists} playlist"
 msgid_plural "%{numPlaylists} playlists"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%{numPlaylists} playlist"
+msgstr[1] "%{numPlaylists} playlists"
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Stations/Profile/BackendPanel.vue:68
 msgid "%{numSongs} uploaded song"
 msgid_plural "%{numSongs} uploaded songs"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%{numSongs} musica carregada"
+msgstr[1] "%{numSongs} musicas carregadas"
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Stations/Common/Quota.vue:59
 msgid "%{spaceUsed} Used"
-msgstr ""
+msgstr "%{spaceUsed} Utilizado"
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Stations/Common/Quota.vue:58
 msgid "%{spaceUsed} of %{spaceTotal} Used"
-msgstr ""
+msgstr "%{spaceUsed} de %{spaceTotal} Utilizado"
 
 #: /home/runner/work/AzuraCast/AzuraCast/frontend/vue/components/Admin/Stations/CloneModal.vue:56
 msgid "%{station} - Copy"
-msgstr ""
+msgstr "%{station} - Copiar"
 
 #: /home/runner/work/AzuraCast/AzuraCast/src/Installer/EnvFiles/EnvFile.php:21
 msgid "(Docker Compose) All Docker containers are prefixed by this name. Do not change this after installation."
-msgstr ""
+msgstr "(Docker Compose) Todos os Docker containers têm como prefixo este nome. Não alterar após a instalação."
 
 #: /home/runner/work/AzuraCast/AzuraCast/src/Installer/EnvFiles/EnvFile.php:28
 msgid "(Docker Compose) The amount of time to wait before a Docker Compose operation fails. Increase this on lower performance computers."
-msgstr ""
+msgstr "(Docker Compose) Quantidade de tempo de espera antes de falha operacional no Docker Compose. Aumente este parâmetro em computadores com baixa performance"
 
 #: /home/runner/work/AzuraCast/AzuraCast/src/Installer/EnvFiles/AzuraCastEnvFile.php:189
 msgid "(in seconds)"
